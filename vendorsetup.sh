@@ -1,1 +1,1 @@
-add_lunch_combo lineage_vns-userdebug
+add_lunch_combo omni_vns-userdebug
